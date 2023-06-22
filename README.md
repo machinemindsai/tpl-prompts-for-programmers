@@ -10,7 +10,7 @@ ___
 
 # [Become a Gode God 🧞‍♂️](https://app.gumroad.com/checkout?product=gnwst&option=K99aAHd095UKV_uBmn17aA%3D%3D&quantity=1)
 
-> [🗞 Substack](https://machineminds.substack.com/) | [🕊 Twitter](https://twitter.com/MachineMindsAI)
+> Follow us for more prompts [🗞 Substack](https://machineminds.substack.com/) | [🕊 Twitter](https://twitter.com/MachineMindsAI)
 
 
 ### [📜 Promptbase Prompts](https://promptbase.com/profile/machinemindsai)
