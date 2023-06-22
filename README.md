@@ -13,4 +13,6 @@ ___
 > [🗞 Substack](https://machineminds.substack.com/) | [🕊 Twitter](https://twitter.com/MachineMindsAI)
 
 
-## [🛍 Gumroad](https://godsol.gumroad.com/) | [📜 Promptbase](https://promptbase.com/profile/machinemindsai)
+### [📜 Promptbase Prompts](https://promptbase.com/profile/machinemindsai)
+
+# [🛍 Gumroad](https://godsol.gumroad.com/) 
