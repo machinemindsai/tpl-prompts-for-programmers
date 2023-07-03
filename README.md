@@ -1,5 +1,8 @@
 # Prompt Engineering for Programmers 👨‍💻 [Training Bundle](https://app.gumroad.com/checkout?product=gnwst&option=K99aAHd095UKV_uBmn17aA%3D%3D&quantity=1) 
-> 🤖🧠 Machine Minds AI helps modern programmers learn the most important skill of the decade.
+🤖🧠 Machine Minds AI helps modern programmers learn ***the skill of the decade.***
+> Follow us for more [🗞 Substack](https://machineminds.substack.com/) | [🕊 Twitter](https://twitter.com/MachineMindsAI) | [📜 Promptbase Prompts](https://promptbase.com/profile/machinemindsai) | [🛍 Gumroad](https://godsol.gumroad.com/) 
+
+
 ___
 
 
@@ -17,6 +20,4 @@ chatgpt programming coding learn prompt-toolkit programming-exercises prompts gp
 ___
 
 
-> Follow us for more prompts [🗞 Substack](https://machineminds.substack.com/) | [🕊 Twitter](https://twitter.com/MachineMindsAI) | [📜 Promptbase Prompts](https://promptbase.com/profile/machinemindsai) | [🛍 Gumroad](https://godsol.gumroad.com/) 
-
-### 🔒 Unlock our complete training bundle; [you deserve the top training in this valuable skill 🧞‍♂](https://app.gumroad.com/checkout?product=gnwst&option=K99aAHd095UKV_uBmn17aA%3D%3D&quantity=1)
+## 😎 Master a skill worth 150k+ a year 💰 [Get 30% off Prompt Engineering for Programmers with coupon code “COGO”](https://app.gumroad.com/checkout?product=gnwst&option=K99aAHd095UKV_uBmn17aA%3D%3D&quantity=1)
